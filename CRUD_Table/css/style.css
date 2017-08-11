@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.form-container {
+    margin-top: 30px;
+}
+
+.table-container {
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+th span {
+    margin-left: 10px;
+}
+
+td button {
+    margin-left: 5px;
+}
+
+form input {
+    max-width: 170px;
+    margin-left: 10px;
+}
